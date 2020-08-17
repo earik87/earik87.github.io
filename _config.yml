@@ -1,6 +1,6 @@
 title: "Personal Page"
 author: "Enis Arik"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann/contrast">@Jekyll Theme</a></b>"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann/contrast\">@Jekyll Theme</a></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
