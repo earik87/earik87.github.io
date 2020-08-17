@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Personal Page"
+author: "Enis Arik"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
 permalink: /:title/
 lang: "en"
@@ -26,9 +26,9 @@ navigation:
   - {file: "README.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+# - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+- {title: Github, icon: github, url: "https://github.com/earik87"}
+# - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
