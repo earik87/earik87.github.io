@@ -1,7 +1,3 @@
----
-title: "About"
-permalink: "/about/"
-layout: page
----
+Personal Home Page 
 
-Test.
+https://earik87.github.io/
