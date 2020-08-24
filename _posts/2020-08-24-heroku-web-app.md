@@ -20,7 +20,7 @@ The visualized figures must be interactive so that user can easily get into the 
 
 <center>
     <figure>
-    <img src="heatmap.png" alt="heatmap" width="400"/>
+    <img src="/assets/images/heatmap.png" alt="heatmap" width="400"/>
     <figcaption>Figure 1. Transient Absorption Data demonstrated with heat map.</figcaption>
     </figure>
 </center>
@@ -29,7 +29,7 @@ To scan all the details in this dataset, you essentially need an interactive plo
 
 <center>
     <figure>
-    <img src="demoinaction.gif" alt="herokudemo" width="600"/>
+    <img src="/assets/images/demoinaction.gif" alt="herokudemo" width="600"/>
     <figcaption>Figure 2. Web Application in action.</figcaption>
     </figure>
 </center>
