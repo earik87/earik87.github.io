@@ -1,3 +1,8 @@
+---
+title: "An Initiative To Create Interactive Figures with Panel and Heroku"
+layout: post
+---
+
 # An Initiative To Create Interactive Figures with Panel and Heroku
 
 When I was a PhD (still a candidate), I collected tremendous amount of data with ultrafast spectroscopy setups. The data was 3-dimensional (time, wavelength, absorbance), and plotting meaningful graphs from it requires extensive - repetitive coding. Other challenge is presenting these figures to my co-workers. Most of the time, I prepared pdfs, or even print-outs to discuss the results in the meetings. This way of working is not ideal when someone asks "can you show us *this* particular dataset", or, "can you zoom in *here*?". Because you do not have time to plot another figure to show. Academic (or non-academic) research have so much intensive work, we should benefit from the technology to make the things more efficient and enjoyable. Essentially, this issue can be easily solved by interactive dashboards.
@@ -15,7 +20,7 @@ The visualized figures must be interactive so that user can easily get into the 
 
 <center>
     <figure>
-    <img src="heatmap.png" alt="heatmap" width="400"/>
+    <img src="img/heatmap.png" alt="heatmap" width="400"/>
     <figcaption>Figure 1. Transient Absorption Data demonstrated with heat map.</figcaption>
     </figure>
 </center>
@@ -24,7 +29,7 @@ To scan all the details in this dataset, you essentially need an interactive plo
 
 <center>
     <figure>
-    <img src="demoinaction.gif" alt="herokudemo" width="600"/>
+    <img src="img/demoinaction.gif" alt="herokudemo" width="600"/>
     <figcaption>Figure 2. Web Application in action.</figcaption>
     </figure>
 </center>
