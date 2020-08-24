@@ -7,9 +7,9 @@ When I was a PhD (still a candidate), I collected tremendous amount of data with
 
 In this blog, I will show you the steps to create a web application for visualizing a scientific data. 
 
-1) We will create an interactive app.<br>
+1. We will create an interactive app.<br>
 Instead of plotting static figures, we create an interactive dashboard which visualizes the **full dataset**. 
-2) We will deploy the app into the website.<br>
+2. We will deploy the app into the website.<br>
 We will serve this dashboard in a website for our co-workers. 
 
 ## Creating an interactive dashboard with Panel
