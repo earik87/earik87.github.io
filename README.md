@@ -1,3 +1,3 @@
-Personal Home Page 
+Personal Page 
 
 https://earik87.github.io/
