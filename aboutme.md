@@ -8,7 +8,7 @@ Hi! My name is Enis Arik and I am a software engineer. In this blog, I will be w
 
 Here is my open-source projects
 - Interactive [web application](https://visud.herokuapp.com/) for data visualization (it may take 5-10 seconds to launch). See [github repo](https://github.com/earik87/visualize-ultrafast-data).
-- [Coffee Roasters](https://earik87.github.io/coffee-roasters/) list for Netherlands. See [github repo](https://github.com/earik87/coffee-roasters).
+- [Coffee Roasters](https://earik87.github.io/coffee-roasters-nl/) list for Netherlands. See [github repo](https://github.com/earik87/coffee-roasters).
 
 <b>Social Media:</b>
 <a href="https://www.linkedin.com/in/enisarik/" target="_blank">LinkedIn</a> | 
