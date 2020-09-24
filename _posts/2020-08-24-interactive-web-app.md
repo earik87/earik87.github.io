@@ -38,7 +38,7 @@ The app above works in jupyter notebook with python codes. This is fine but ever
 ) exists on how to deploy python projects to Heroku. Although it has a decent documentation, I ran into some errors in the first trial and decided to use a minimal working example - [minimal heroku app](https://github.com/pyviz-demos/minimal-heroku-demo) provided from Holoviz founders. I would **strongly** suggest starting from this just to see how deployment is done. First, you create heroku account, install git on your computer if you didn't have, and install Heroku Command Line Interface (CLI). You need `heroku login` command for authorization. Then, follow the instructions in the minimal heroku app and voala! <br>
 
 I still have quite few things to-do about this webapp;
-- First launch of website takes some time (about 10 seconds). Not sure how to improve this, but I will check.
+- First launch of website takes some time (about 30 seconds). Not sure how to improve this, but I will check.
 - The response time of sliders isn't very quick. I think there is a room for optimization on the code to speed-up the figure's responses. Not sure how much the panel app brings slowness due to its high-level infrastructure. 
 - Range slider can be added for desired x, y axis range. 
 - Linear - logarithmic time-axis should be implemented to access the full time-scale for time-trace plotting. 
