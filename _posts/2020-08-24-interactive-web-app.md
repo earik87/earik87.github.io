@@ -14,7 +14,7 @@ We will serve this dashboard in a website for our co-workers.
 
 ## Creating an interactive dashboard with Panel
 
-The visualized figures must be interactive so that user can easily get into the data itself without extra effort. Here, I am going over an example of 3-dimensional data (time, wavelength, absorbance) which is a typical transient absorption data of Photoactive Yellow Protein. You can plot this whole data set with a heat map (Figure 1). It is nice and neat, however, this comes with a drawback. You miss lots of details, such as spectral shape at certain time points and time-traces at certain wavelengths).
+The visualized figures must be interactive so that user can easily get into the data itself without extra effort. Here, I am going over an example of 3-dimensional data (time, wavelength, absorbance) which is a typical transient absorption data of Photoactive Yellow Protein. You can plot this whole data set with a heat map (Figure 1). It is nice and neat, however, this comes with a drawback. You miss lots of details, such as spectral shape at certain time points and time-traces at certain wavelengths.
 
 <center>
     <figure>
@@ -28,7 +28,7 @@ To visualize all the details in this dataset, we essentially need an interactive
 <center>
     <figure>
     <img src="/assets/images/demoinaction.gif" alt="herokudemo" width="600"/>
-    <figcaption>Figure 2. Web Application in action. Click [here](https://visud.herokuapp.com/) to open the website. </figcaption>
+    <figcaption>Figure 2. Web Application in action.</figcaption>
     </figure>
 </center>
 
