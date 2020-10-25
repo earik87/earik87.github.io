@@ -12,8 +12,7 @@ To be a great engineer, I am learning fundamentals of computer science. Here is 
 
 I am an active user in stackoverflow helping people for their [CS50 questions](https://stackoverflow.com/search?tab=Relevance&pagesize=50&q=user%3a11000382%20%5bcs50%5d).
 
-I was interested in data visualization and built a webapp to visualize data from my PhD research.
-- Interactive [web application](https://visud.herokuapp.com/) for data visualization (it may take 30 seconds for the first launch). See [github repo](https://github.com/earik87/visualize-ultrafast-data).
+I was interested in data visualization and built Interactive [web application](https://visud.herokuapp.com/) to visualize data from my PhD research. See [github repo](https://github.com/earik87/visualize-ultrafast-data).
 
 Apart from software, I am a home coffee-brewer. Yes, I am literally brewing my own coffee :-). My setup is timemore c2 and aeropress. I am trying different kind of beans everytime to enjoy different flavours. 
 
