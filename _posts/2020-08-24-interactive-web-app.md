@@ -23,7 +23,7 @@ The visualized figures must be interactive so that user can easily get into the 
     </figure>
 </center>
 
-To visualize all the details in this dataset, we essentially need an interactive plot. Possibly with a slider which sets one parameter at a time (time or wavelength) then plot will be updated, accordingly. Two figures side by side can solve our problem; Absorbance vs Time figure and Absorbance vs Wavelength figure. [Panel](https://panel.holoviz.org/) from [Holoviz](https://holoviz.org/) family is a high level app helping people to create interactive figures with few lines of code. You can see the demo below, how the figures are updated in real-time within the use of slider. First section has sliders to show full data set. Note that in the right side of the figures there are buttons which allows you to zoom in/out, save figure, select certain section in the plot etc. Its fully interactive! 
+To visualize all the details in this dataset, we essentially need an interactive plot. Possibly with a slider which sets one parameter at a time (time or wavelength) then plot will be updated, accordingly. Two figures side by side can solve our problem; Absorbance vs Time figure and Absorbance vs Wavelength figure. [Panel](https://panel.holoviz.org/) from [Holoviz](https://holoviz.org/) family is a high level app helping people to create interactive figures with few lines of code. You can see the demo below, how the figures are updated in real-time within the use of slider. There are sliders on top of figures to slice data set. Note that in the right side of the figures there are buttons which allows you to zoom in/out, save figure, select certain section in the plot etc. Its fully interactive! 
 
 <center>
     <figure>
