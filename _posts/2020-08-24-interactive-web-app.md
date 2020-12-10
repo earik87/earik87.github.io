@@ -1,5 +1,5 @@
 ---
-title: "An Initiative To Create Interactive Figures with Panel and Heroku"
+title: "Interactive Web Application to Visualize Scientific Data"
 layout: post
 ---
 
