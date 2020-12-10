@@ -39,11 +39,11 @@ The app above works in jupyter notebook with python codes. This is fine but ever
 
 I still have quite few things to-do about this webapp;
 - First launch of website takes some time (about 30 seconds). Not sure how to improve this, but I will check.
-- The response time of sliders isn't very quick. I think there is a room for optimization on the code to speed-up the figure's responses. Not sure how much the panel app brings slowness due to its high-level infrastructure. 
+- The response time of sliders has some delay. I think there is a room for optimization on the code to speed-up the figure's responses. Not sure how much the panel app brings slowness due to its high-level infrastructure. This is worth to investigate.
 - Range slider can be added for desired x, y axis range. 
 - Linear - logarithmic time-axis should be implemented to access the full time-scale for time-trace plotting. 
 
-I am not sure where I will go from here to be honest. But, I will likely be stick to Panel and Heroku, and try to improve the project. 
+Go ahead and build your own interactive web application and share it with the world!
 
 Helpful links of this project; 
 - [Heroku web app](https://visud.herokuapp.com/)
