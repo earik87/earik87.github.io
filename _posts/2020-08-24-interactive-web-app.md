@@ -3,7 +3,7 @@ title: "Interactive Web Application to Visualize Scientific Data"
 layout: post
 ---
 
-When I was a PhD (still a candidate), I collected tremendous amount of data with ultrafast spectroscopy setups. The data is 3-dimensional (time, wavelength, absorbance), and plotting meaningful graphs from it requires extensive - repetitive coding. Other challenge is presenting these figures to my co-workers. Most of the time, I prepared pdfs or even print-outs to discuss the results in the meetings. This way of working is not ideal when a co-worker requests "can you show *this* particular dataset", or "can you zoom in *here*?". Essentially, these things can be easily solved by using interactive dashboards.
+When I was a PhD (still a candidate), I collected tremendous amount of data with ultrafast spectroscopy setups. The data is 3-dimensional (time, wavelength, absorbance), and plotting meaningful graphs from it requires extensive - repetitive coding. Other challenge is presenting these figures to my co-workers. Most of the time, I prepared pdfs or even print-outs to discuss the results in the meetings. This way of working is not ideal when a co-worker wants to see a particular dataset or zooming in/out on a figure. Essentially, these things can be easily solved by using interactive dashboards.
 
 In this blog, I will show you the steps on how to create a web application for visualizing a scientific data. 
 
