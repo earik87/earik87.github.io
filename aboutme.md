@@ -14,7 +14,7 @@ I am an active user in stackoverflow helping people for their [CS50 questions](h
 
 I was interested in data visualization and built [interactive web application](https://visud.herokuapp.com/) to visualize data from my PhD research. See [github repo](https://github.com/earik87/visualize-ultrafast-data).
 
-Apart from software, I am a home coffee-brewer. I like to release my stress with grinding fresh coffee beans and brewing coffee. I like playing soccer. I used to be a goalkeeper, but now I am a defender. Watching movies and tv-series are also my routine. I find amazing to thinkg about the movie that I have watched and making critics about it. 
+Apart from software, I am a home coffee-brewer. I like to release my stress with grinding fresh coffee beans and brewing coffee. I like playing soccer. I used to be a goalkeeper, but now I am a defender. Watching movies and tv-series are also my routine. I find amazing to think about the movie that I have watched and making critics about it. 
 
 <b>My Active Social Media:</b>
 <a href="https://www.linkedin.com/in/enisarik/" target="_blank">LinkedIn</a> | 
