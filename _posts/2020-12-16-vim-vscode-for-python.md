@@ -1,4 +1,7 @@
-# Vim vs Visual Studio Code for Python
+---
+title: "Vim vs VS Code for Python"
+layout: post
+---
 
 I started a course on Udemy about data structures and algorithms in python. There are tons of things to learn this course. Therefore, I needed something easy to use. I started with Vim and then switched to Visual Studio Code (VS Code). In this blog, I will elaborate my experience on both editors and why I switch to VS Code later.
 
