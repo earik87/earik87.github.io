@@ -38,10 +38,6 @@ It is also possible to align terminal horizontally. For this, `rightb vert term`
 
 This is a neat initial Vim setup for basic Python source code editing. Vim has python syntax highlighting which works great. The big advantage of Vim is its speed. Nothing can beat it. As I said, you have to know how to configure it for the first time. 
 
-Issues with Vim;
-
-I did not go very far with Vim especially for Python development. Reason is my time is precious, and I want to focus on my course not the editor itself. I am pretty sure one can make use of Vim as a Python development environment but I do not have that time and energy. That's why in the second section of this blog post, I will mention Visual Studio Code which is my to-go development tool. 
-
 # Visual Studio Code
 
 I used Vim for the course assignments for a while but to be honest, I could not be stick to it. I needed something more than Vim. I want to have auto-completion and debugger with the editor at least. I know these might be possible with Vim but I do not want to spend my time on it. That's why here VS Code comes for help. 
