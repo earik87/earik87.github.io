@@ -23,16 +23,15 @@ Open the file in Vim. Then type `:term`. This will open terminal inside Vim. Aft
 This is how Vim and terminal look together.
 <center>
     <figure>
-    <img src="/assets/images/vim_term.png" alt="terminal inside vim" width="600"/>
+    <img src="/assets/images/vim_term.png" alt="terminal inside vim" width=400 />
     <figcaption>Figure 1. Terminal window in Vim.</figcaption>
-    </figure>
-</center>
+    </figure></center>
 
 It is also possible to align terminal horizontally. For this, `rightb vert term` will place terminal on the right side of Vim. 
 
 <center>
     <figure>
-    <img src="/assets/images/vim_term_h.png" alt="terminal inside vim" width="600"/>
+    <img src="/assets/images/vim_term_h.png" alt="terminal inside vim" width=600 />
     <figcaption>Figure 2. Horizontal aligned terminal window in Vim.</figcaption>
     </figure>
 </center>
@@ -51,7 +50,7 @@ VS Code is a product of Microsoft which has been released in 2015. It is a very 
 
 <center>
     <figure>
-    <img src="/assets/images/so_survey_2019.png" alt="stackoverflow surver" width="600"/>
+    <img src="/assets/images/so_survey_2019.png" alt="stackoverflow surver" width=600/>
     <figcaption>Figure 3. Stackoverflow Survey in 2019.</figcaption>
     </figure>
 </center>
@@ -60,7 +59,7 @@ For my own VS code setup, I added Python and Vim extensions from marketplace. Py
 
 <center>
     <figure>
-    <img src="/assets/images/vscode_setup.png" alt="VS Code setup" width="600"/>
+    <img src="/assets/images/vscode_setup.png" alt="VS Code setup" />
     <figcaption>Figure 4. My VS Code setup.</figcaption>
     </figure>
 </center>
