@@ -21,11 +21,21 @@ When a python file open in Vim, I realized I need terminal next to it. Because, 
 Open the file in Vim. Then type `:term`. This will open terminal inside Vim. After this you can move terminal up or down by using Ctrl + w + up/down. I personally prefer terminal in the bottom of the code. 
 
 This is how Vim and terminal look together.
-![terminal inside vim](vim_term.png)
+<center>
+    <figure>
+    <img src="/assets/images/vim_term.png" alt="terminal inside vim" width="600"/>
+    <figcaption>Figure 1. Terminal window in Vim.</figcaption>
+    </figure>
+</center>
 
 It is also possible to align terminal horizontally. For this, `rightb vert term` will place terminal on the right side of Vim. 
 
-![terminal inside vim](vim_term_h.png)
+<center>
+    <figure>
+    <img src="/assets/images/vim_term_h.png" alt="terminal inside vim" width="600"/>
+    <figcaption>Figure 2. Horizontal aligned terminal window in Vim.</figcaption>
+    </figure>
+</center>
 
 This is a neat initial Vim setup for basic Python source code editing. Vim has python syntax highlighting which works great. The big advantage of Vim is its speed. Nothing can beat it. As I said, you have to know how to configure it for the first time. 
 
@@ -39,8 +49,18 @@ I used Vim for the course assignments for a while but to be honest, I could not 
 
 VS Code is a product of Microsoft which has been released in 2015. It is a very ight-weight developer environment tool. In contrast to Vim, it comes within great built-in features; debugger, intellisense, complete Git integration. It has marketplace where you can find any kind of extensions for your needs. It has been selected the most used environment, according to stackoverflow survey in 2019.  
 
-![stackoverflow survey 2019](so_survey_2019.png)
+<center>
+    <figure>
+    <img src="/assets/images/so_survey_2019.png" alt="stackoverflow surver" width="600"/>
+    <figcaption>Figure 3. Stackoverflow Survey in 2019.</figcaption>
+    </figure>
+</center>
 
 For my own VS code setup, I added Python and Vim extensions from marketplace. Python extension brings debugging environment which is super useful to use. On the other hand, I use Vim extension to have the power of Vim movements and modal text editing. Combination of Vim philosophy plus the easiness of VS Code is my to-go setup for development in Python.
 
-![vscode setup](vscode_setup.png)
+<center>
+    <figure>
+    <img src="/assets/images/vscode_setup.png" alt="VS Code setup" width="600"/>
+    <figcaption>Figure 4. My VS Code setup.</figcaption>
+    </figure>
+</center>
