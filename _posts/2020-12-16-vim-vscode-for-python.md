@@ -3,13 +3,12 @@ title: "Vim vs VS Code for Python"
 layout: post
 ---
 
-I started a course on Udemy about data structures and algorithms in python. There are tons of things to learn this course. Therefore, I needed something easy to use. I started with Vim and then switched to Visual Studio Code (VS Code). In this blog, I will elaborate my experience on both editors and why I switch to VS Code later.
+I started a course on Udemy about data structures and algorithms in python. There are tons of things to learn this course. Therefore, I needed something easy to use. I started with Vim and then switched to Visual Studio Code (VS Code). In this blog, I will elaborate my experience on both editors and explain why I switch to VS Code later.
 
 # Vim
-Vim (Vi-IMproved) is a highly configurable text editor. It is developed by Bram Moolenaar. The first stable release was in 1991, since then it became very popular among the programmers. I am familiar with with Vim due to my job. This led me to start with Vim for python development. 
-Let's run the terminal first.
+Vim (Vi-IMproved) is a highly configurable text editor. It is developed by Bram Moolenaar. The first stable release was in 1991, since then it became very popular among the programmers. I am familiar with with Vim due to my job. This led me to start with Vim for python development. Let me show, how you can use Vim for python development with some basics.
 
-I usually keep my python files in a special directory. For this, going to the target directory by typing `cd foldername` is a pain. Alias is a nice trick which allows an easy access to the target directory with one word. I added following line into *.bash_profile* file.
+Run the terminal. I use bash in my macbook. You may use powershell in Windows. No problem. I usually keep my python files in a special directory. For this, going to the target directory by typing `cd foldername` is a pain. Alias is a nice trick which allows an easy access to the target directory with one word. I added following line into *.bash_profile* file.
 
 `alias pythonfiles='cd ~/"Google Drive"/py_course'`
 
