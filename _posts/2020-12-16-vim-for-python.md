@@ -3,15 +3,15 @@ title: "Vim for Python Development"
 layout: post
 ---
 
-I started a course on Udemy about data structures and algorithms in Python. For writing scripts in Python, I needed a text editor. Due to my job, I already had experience on Vim, and decided to use it. 
+I started a course on Udemy about data structures and algorithms in python. For writing scripts in python, I needed a text editor. Due to my job, I already had experience on Vim, and decided to use it. 
 
-For those who do not know, Vim (Vi-IMproved) is a highly configurable text editor which is developed by Bram Moolenaar. The first stable release was in 1991, since then it became very popular among the programmers. 
+For those who do not know, [Vim](https://www.vim.org/) (Vi-IMproved) is a highly configurable text editor which is developed by Bram Moolenaar. The first stable release was in 1991, since then it became very popular among the programmers (see the [survey](https://insights.stackoverflow.com/survey/2019) below from Stackoverflow conducted in 2019). 
 
-![Stackoverflow Surver in 2019](/assets/images/so_survey_2019.png)
+![Stackoverflow Survey in 2019](/assets/images/so_survey_2019.png)
 
 ## Alias for quick access to work directory
 
-Aliases are pretty useful to access into your work directory. Since, going to the target directory by typing `cd foldername` is a pain, Alias allows an easy access to the target directory with one word. I added following line into *.bash_profile* file. (Slash in macOS, backslash in Windows).
+Aliases are pretty useful to access into your work directory. Since, going to the target directory by typing `cd /folder/folder2/folder3/..` is a pain, Alias allows an easy access to the target directory with one word. I added following line into *.bash_profile* file. (Slash in macOS, backslash in Windows).
 
 `alias pythonfiles='cd ~/"Google Drive"/py_course'`
 
@@ -29,4 +29,5 @@ It is also possible to align terminal horizontally with Vim. For this, `rightb v
 
 ![Horizontally aligned Terminal](/assets/images/vim_term_h.png)
 
-These are tips for the starters who want to use Vim for Python files editing. Vim has python syntax highlighting which works great. Vim is a special text editor where you need to learn how to use it. Once you know it, you will be really fast on any kind of text editing.
+## Summary
+Those are the tips for the ones who want to use Vim in the terminal. For editing text and running in the terminal is very efficient with Vim. If you want more features such as autocompletion, debugger, then it is better to use another editor or even IDE. Visual Studio Code, Atom, Sublime Text can be good alternatives to Vim.
