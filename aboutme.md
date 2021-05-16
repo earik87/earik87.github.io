@@ -4,19 +4,13 @@ permalink: "/aboutme/"
 layout: page
 ---
 
-Hi! My name is Enis Arik and I am a software engineer.
+Who I am?
 
-Here is what I like to do professionally;
+Hi! My name is Enis Arik. 
 
-  - Learning computer science fundamentals.
-  - Helping people for their [CS50 questions](https://stackoverflow.com/search?tab=Relevance&pagesize=50&q=user%3a11000382%20%5bcs50%5d) in stackoverflow.
-  - I was interested in data visualization and built [interactive web application](https://visud.herokuapp.com/) to visualize data from my PhD research. See [github repo](https://github.com/earik87/visualize-ultrafast-data).
+I studied chemistry and I have done extensive research on [laser spectroscopy](https://scholar.google.com/citations?user=WhyLeAoAAAAJ&hl=en). During my PhD, I realized I will be much happier in private sector. In 2018, I started my career as a software engineer at Infor, in Netherlands. 
 
-Here is what I liked to do as a hobby;
-
-- I am interested in coffee brewing. I like to release my stress with grinding fresh coffee beans and brewing.
-- I am a weight lifter and I play soccer.
-- Watching movies and tv-series are also my routine. I find amazing to think about the movie that I have watched and making critics about it. 
+Apart from my passion in software engineering, I am interested in home - coffee brewing. I like to release my stress by taking my time to prepare and drink fresh coffee. Before the pandemic, I was actively playing soccer and lifting weight. Right now, I enjoy long walks, running, and doing exercise at home.
 
 <b>My Social Media:</b>
 <a href="https://www.linkedin.com/in/enisarik/" target="_blank">LinkedIn</a> | 
