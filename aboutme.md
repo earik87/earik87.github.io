@@ -4,7 +4,7 @@ permalink: "/aboutme/"
 layout: page
 ---
 
-Hi! My name is Enis Arik. 
+Hi! My name is Enis Arik.
 
 I studied chemistry and I have done extensive research on [laser spectroscopy](https://scholar.google.com/citations?user=WhyLeAoAAAAJ&hl=en). During my PhD, I realized I will be much happier in private sector. In 2018, I started my career as a software engineer at Infor, in Netherlands. 
 
