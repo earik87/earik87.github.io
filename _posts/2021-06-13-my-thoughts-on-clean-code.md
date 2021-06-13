@@ -39,4 +39,4 @@ If we analyze the time we spend on writing and reading the code, reading will be
 ### Other quotes.
 > Bad code tempts the mess to grow!
 
-If you have questions or comments about this project, feel free to reach me via [twitter](https://twitter.com/earik87).
+If you have questions or comments about this post, feel free to reach me via [twitter](https://twitter.com/earik87).
